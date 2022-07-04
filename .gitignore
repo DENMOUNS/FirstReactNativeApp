@@ -1,14 +1,11 @@
-node_modules/
-.expo/
-dist/
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
+# Ignore node_modules folder
+node_modules
 
-# macOS
-.DS_Store
+# Ignore FirstReactNativeApp folder
+FirstReactNativeApp
+
+# Ignore firstApp folder
+firstApp
+
+# Ignore .expo folder
+.expo
